@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "job-scraper"
+version = "0.1.0"
+description = "A web scraper for Indeed job listings"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+requests = "^2.31.0"
+beautifulsoup4 = "^4.12.2"
+anthropic = "^0.43.0"
+pandas = "^2.2.3"
+tqdm = "^4.67.1"
+tiktoken = "^0.8.0"
+nltk = "^3.9.1"
+rapidfuzz = "^3.11.0"
+fast-langdetect = "^0.2.4"
+ydata-profiling = "^4.12.1"
+setuptools = "^75.8.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.7.0"
+pytest = "^7.4.0"
+mypy = "^1.5.0"
+flake8 = "^6.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+scrape = "job_scraper.cli:main"

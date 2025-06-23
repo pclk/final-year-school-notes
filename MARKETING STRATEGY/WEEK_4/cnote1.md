@@ -1,0 +1,91 @@
+I. Product Definitions and Levels
+   - Three levels of a product
+     - Core benefit - The fundamental problem-solving benefit the customer is buying
+     - Actual product - The physical, tangible product with features, design, brand, quality
+     - Augmented product - Additional benefits and services around the core and actual product
+   - Consumer vs Industrial
+     - Consumer: B2C
+     - Industrial: B2B
+
+II. Classifications of Consumer Products
+   - Convenience products
+     - Price: Cheap
+     - Place: Convenient.
+     - Promotion: Packaging & Sales
+   - Shopping products
+     - Price: Mid
+     - Place: Mid convenience
+     - Promotion: Branding & Education, some Sales
+   - Specialty products
+     - Price: Expensive
+     - Place: Not convenient
+     - Promotion: Branding & Relationship
+   - Unsought products
+     - Customers do not know about or normally think of buying
+     - Promotion: Create awareness
+
+III. Product Strategy
+   - Individual product decisions
+     - Product attributes (quality, features, style/design)
+       - Quality - Ability of product to perform its functions and free from defects.
+       - Features - Differentiates a product from competitors, assessed based on costs and value.
+       - Style - Appearance of product.
+       - Design - Contribute to product's usefulness and looks.
+     - Packaging
+       - Original Purpose - contain and protect product
+       - Now - also attract attention, describe product and make sale.
+       - Good package considers:
+         - Packaging concept
+         - Package elements
+         - Product safety
+         - Environmental concerns
+     - Labeling
+       - Persuasive
+         - Attractive graphics
+         - Sales messaging
+       - Informational
+         - Helps buying decision
+         - Lowers purchase angst
+         - product use & care
+     - Product support services
+       - package of services that delight customers and yield profits
+   - Product line decisions
+     - Product line - Group of related products
+     - Product line depth - Variety of products within a line
+   - Product mix decisions
+     - Product mix - Total of all product lines and items a company offers
+
+IV. Product Life Cycle
+   - Stages of the product life cycle
+     - Introduction 
+       - Low sales
+       - Negative profit
+       - High cost per customer
+       - Product is basic
+       - Aggressive ads & Promotional incentives 
+       - Price is cost-plus formula
+       - Little distribution
+     - Growth 
+       - Rising sales
+       - Rising profit
+       - Average cost per customer
+       - Product quality, features and service increase
+       - Less promotional and more brand & relationship
+       - Price stabilize or decrease to increase volume
+       - More distribution
+     - Maturity 
+       - Peak, slowdown sales
+       - High profit
+       - Low cost per customer
+       - STAR Product stabilize and diversification
+       - Encourage switching from other brands
+       - Price stabilize or decrease for competitors
+       - Maintain distribution
+     - Decline
+       - Declining sales
+       - Declining profit
+       - Low cost per customer
+       - Kill weak products, re-vitalize
+       - Minimum promotion to retain loyal customers
+       - Price decrease 
+       - Kill weak distribution
