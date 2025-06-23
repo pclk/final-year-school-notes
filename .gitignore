@@ -29,7 +29,6 @@
 *.pdf
 *.log
 *.npy
-*.ipynb
 mlruns/
 
 
